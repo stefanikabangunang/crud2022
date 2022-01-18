@@ -113,7 +113,7 @@
 <h1 class="text-center">WEB STEFANI</h1>
 <h2 class="text-center">STEFANI KABANGUNANG</h2>
 
-<!-- Awal Card Form -->
+<!-- Awal Car Form -->
 <div class="card mt-3">
   <div class="card-header bg-primary text-white">
     Form Input Data Mahasiswa
